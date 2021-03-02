@@ -1,0 +1,4 @@
+node_modules
+_data/*.json
+_data/content/*
+config/config.env
